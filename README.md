@@ -8,4 +8,4 @@ Implemented several basic CUDA tasks for Programming GPU.
 * [shared_memory_optimisation](shared_memory_optimisation)
 * [streams](streams)
 
-Note: There are just for practice, so it may have some errors :(
+Note: They are just for practice, so there may be some errors :(
